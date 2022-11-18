@@ -1,4 +1,4 @@
-# Churrascometro 🍢🍢🍢
+# Churrascômetro 🍢🍢🍢
 
 Aplicação simples em javascript que realiza um cálculo de produtos e número de pessoas para realização de um churrasco!
 
